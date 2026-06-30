@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0324/WYG/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 䟦為文大要有三主之以理張之以氣束之以法篔窓先生探周程之㫖趣貫歐曾之脉絡非徒工於文者也余将指淮東欲盡出先生文以啟来者甫命工以他役去乃属海陵謝令範錧鋟初集三十巻盖先生四十歳以前之作也雄竒勁正己如此後此者為續集理研之而益精氣培之而益厚法操之而益嚴惜未及并鑱之尚俟他日云淳祐癸卯上元日荆溪吴子良謹題
+  hash: sha256:f5b4649025cb3a9082b719684f560c44cc9873157f2d95d97ca9baba12a4e253
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0324_WYG_011-1a, image: WYG1178/WYG1178-0088c.png}
+metadata:
+  title: 篔窻集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:04:30.060879'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR4d0324/KR4d0324_011.txt
+hash: sha256:301c522c137051fc8c27d0978a26a4097fdb202fc549bf2c7234c9e59a863a07
